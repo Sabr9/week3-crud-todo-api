@@ -1,3 +1,10 @@
+# Install Dependencies
+- npm init -y
+- npm install express
+- npm i --save -dev nodemon
+- npm install dotenv
+
+
 # week 3 CRUD Todo API
 This project is simple a Todo API built with Node.js and Express, it demostrate basic CRUD operation using an in-memory data store.
 
